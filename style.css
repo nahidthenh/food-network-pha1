@@ -73,6 +73,9 @@ body{
 
 
 /* recipices Area  */
+.recipics-area {
+	padding-bottom: 50px;
+}
 .recipices-title {
 	width: 40%;
 	text-align: center;
@@ -117,3 +120,21 @@ body{
 	/*! margin-left: 50px; */
 }
 /* recipices Area  End */
+
+/* Footer area  */
+.footer-area {
+	background: #0B0D17;
+    text-align: center;
+    padding: 50px 0px;
+}
+.footer-title span {
+	color: #FBA24F;
+}
+.footer-title {
+	color: #5B5B5B;
+}
+.copyright {
+	font-size: 14px;
+	color: #E5E5E5;
+}
+/* Footer area End */
