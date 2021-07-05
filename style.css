@@ -1,0 +1,48 @@
+/* Body css  */
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* Body css END */
+
+
+/* Hero area css  */
+.hero-area {
+	display: flex;
+	margin-top: 50px;
+	/* margin-bottom: 50px; */
+}
+.width50{
+    width: 50%;
+}
+.hero-area-left {
+	margin-left: 60px;
+	margin-top: 130px;
+}
+.hero-area-left h1 {
+	font-size: 60px;
+	color: #575757;
+}
+.hero-area-left h1 span{
+    color: #FBA24F;
+}
+.hero-area-left p {
+	color: #828282;
+	font-size: 20px;
+}
+.our-button {
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600;
+	color: #fff;
+	background-image: linear-gradient(to right ,#FBA24F, #FF1E1E);
+	padding: 15px 30px;
+	border-radius: 30px;
+	margin-top: 10px;
+	display: inline-block;
+}
+.hero-area-right img {
+	width: 100%;
+}
+/* Hero area css  END */
