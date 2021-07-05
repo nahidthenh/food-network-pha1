@@ -46,3 +46,27 @@ body{
 	width: 100%;
 }
 /* Hero area css  END */
+/* Eating Salad  */
+.salad-area {
+	display: flex;
+	background-image: url(img/about-bg.png);
+	padding-top: 60px;
+	background-position: center;
+	background-size: cover;
+}
+.salad-right h2 {
+	color: #707070;
+	font-size: 29px;
+	margin-top: 80px;
+}
+.salad-right p {
+	color: #18191F;
+	font-size: 18px;
+	line-height: 32px;
+	width: 80%;
+}
+.salad-left img {
+	/* width: 100%; */
+	margin-left: 50px;
+}
+/* Eating Salad end  */
