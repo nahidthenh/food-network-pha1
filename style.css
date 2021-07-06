@@ -116,9 +116,8 @@ body{
 .item-box {
 	background: #fff;
 	padding: 25px;
-	box-shadow: -1px 4px 10px #D2CECE;
 	border-radius: 20px;
-	/*! margin-left: 50px; */
+	box-shadow: 2px 2px 20px 5px #ddd;
 }
 /* recipices Area  End */
 /* Review area  */
@@ -142,11 +141,11 @@ body{
 }
 .review-box {
 	width: 30%;
-	box-shadow: 0px -1px 15px #cabbc5;
 	border-radius: 20px;
 	padding: 20px 4px;
 	margin-top: 50px;
 	padding-top: 29px;
+	box-shadow: 2px 2px 20px 5px #ddd;
 }
 .review-content {
 	display: flex;
@@ -166,14 +165,37 @@ body{
 	color: #676767;
 	line-height: 144.4%;
 	margin: 0px 25px;
-    text-align: center;
+	text-align: center;
+	padding-bottom: 15px;
 }
 
-
-
-
-
 /* Review area end  */
+/* Food menu  */
+.food-menu-area{
+	padding-top:50px ;
+	padding-bottom:70px ;
+}
+.review-title-box {
+	text-align: center;
+}
+.food-menu-list{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-left: 45px;
+	margin-right: 45px;
+}
+.food-menu-item {
+	width: 30%;
+}
+.food-menu-item img {
+	width: 100%;
+	height: 300px;
+	padding: 30px 0px !important;
+	border-radius: 40px;
+}
+
+/* Food menu end  */
 /* Footer area  */
 .footer-area {
 	background: #0B0D17;
