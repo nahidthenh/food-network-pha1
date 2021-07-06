@@ -119,6 +119,11 @@ body{
 	border-radius: 20px;
 	box-shadow: 2px 2px 20px 5px #ddd;
 }
+.read-more-button {
+	color: #FBA24F;
+	text-decoration: none;
+	font-weight: bold;
+}
 /* recipices Area  End */
 /* Review area  */
 .our-review-area {
